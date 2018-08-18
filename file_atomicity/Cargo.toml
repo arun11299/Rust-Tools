@@ -1,0 +1,6 @@
+[package]
+name = "file_atomicity"
+version = "0.1.0"
+authors = ["amuralid <arun11299@gmail.com>"]
+
+[dependencies]
